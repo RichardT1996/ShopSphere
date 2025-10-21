@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/080d0e95-def0-4962-b431-01c3cb321203/resourceGroups/ShopSphere_group/providers/Microsoft.Web/sites/ShopSphere",
+    "appService.deploySubpath": "."
+}
